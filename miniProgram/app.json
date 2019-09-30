@@ -1,0 +1,6 @@
+{
+  "pages": [
+    "pages/helloworld/helloworld"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

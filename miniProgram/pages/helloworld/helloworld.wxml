@@ -1,0 +1,3 @@
+<button bindtap="chooseFile" class='button'>点击选择文件</button>
+<view class="filename">{{ filename }}</view>
+<button bindtap="uploadFile" class='btn'>点击上传文件</button>
